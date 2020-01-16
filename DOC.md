@@ -6,3 +6,8 @@
 ###### Header6
 
 > 我是註解
+
+Hello *markdown* 斜體
+Hello **markdown** 粗體
+Hello ***markdown*** 斜體 + 粗體
+Hello __markdouwn__ 刪除線
